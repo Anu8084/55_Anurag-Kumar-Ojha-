@@ -22,5 +22,11 @@ For students, the platform acts as an intelligent study companion that simplifie
 
 🛠️ Technology Stack
 
-The platform is built using Python as the core programming language. Google’s Gemini AI model is used as the multimodal large language model capable of understanding both text and images. LangChain is employed to manage prompt orchestration and implement the Retrieval-Augmented Generation workflow. FAISS is used for efficient vector storage and semantic similarity search, enabling fast and accurate retrieval of relevant PDF content. The backend API is developed using the Django framework, ensuring scalability and structured request handling. Streamlit is used to create an interactive and user-friendly frontend interface. The entire application is deployed on Azure App Services, making it cloud-ready and scalable for real-world educational use.
+Technologies used in this project:
+- Python
+- Gemini Model (By Google)
+- Django
+- Azure
+- LangChain
+- FAISS (Facebook AI Similarity Search)
 
