@@ -1,4 +1,4 @@
-AI-Powered Multimodal Education Platform
+                          AI-Powered Multimodal Educational Chatbot Platform 
 
 This project presents an AI-driven education platform designed to transform traditional static learning materials into an interactive and intelligent learning experience. In modern education, students and educators heavily depend on PDF-based resources such as textbooks, lecture notes, research papers, lab manuals, and academic guides. While these documents contain valuable information, they remain difficult to navigate, time-consuming to read, and challenging to understand, especially when they include complex diagrams, tables, and technical explanations. This platform addresses these limitations by enabling users to directly interact with educational PDFs using advanced artificial intelligence.
 
