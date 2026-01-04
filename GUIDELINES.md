@@ -50,3 +50,6 @@ because managing time during a hackathon is very important.
 - Commit history & AI chat logs (attach/export or link).
 
 ## VERY IMP NOTE: A 10min demonstration video has to be screen recorded with your voice and should be shared through YouTube link.
+
+
+
