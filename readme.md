@@ -26,7 +26,6 @@ Technologies used in this project:
 - Python
 - Gemini Model (By Google)
 - Django
-- Azure
 - LangChain
 - FAISS (Facebook AI Similarity Search)
 
